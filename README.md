@@ -1,4 +1,4 @@
-Quick Start Guide
+*Quick Start Guide*
 
 This guide will help you quickly set up and run the IoT Security Monitoring System (ISMS) on your local machine.
 
@@ -39,8 +39,7 @@ flask run
 Your application will now be running at http://127.0.0.1:5000/.
 
 
-
-User Guide
+*User Guide*
 
 This guide explains how to use different features of the IoT Security Monitoring System (ISMS).
 
@@ -143,75 +142,7 @@ Replace your-aws-iot-endpoint in app.py
 
 Provide device certificates
 
-API Endpoints
-
-Endpoint
-
-Method
-
-Description
-
-/
-
-GET
-
-Home Page
-
-/login
-
-GET/POST
-
-User Login
-
-/register
-
-GET/POST
-
-User Registration
-
-/dashboard
-
-GET
-
-User Dashboard
-
-/risk_assessment
-
-GET
-
-Perform Risk Assessment on Devices
-
-/audit_logs
-
-GET
-
-View Audit Logs
-
-/connected_devices
-
-GET
-
-View IoT Devices
-
-/video_feed
-
-GET
-
-Live Video Streaming
-
-/edit_profile
-
-GET/POST
-
-Edit user profile
-
-/logout
-
-GET
-
-Log out the user
-
-Future Enhancements
+*Feature*
 
 Integrate AWS IoT Core for real device monitoring
 
