@@ -6,7 +6,7 @@ This guide will help you quickly set up and run the IoT Security Monitoring Syst
 
 Download the project source code from GitHub:
 
-git clone https://github.com/your-username/ISMS.git
+git clone (https://github.com/RayyanUmair1/ISMS.git)
 cd ISMS
 
 2. Create a Virtual Environment
